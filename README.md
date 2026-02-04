@@ -56,6 +56,15 @@ Soil Monitoring and Analysis System Chilli plant
 • ชุดไขควงขนาดเล็ก (6pc Precision Screwdriver Set): สำหรับขันยึดอุปกรณ์ต่างๆ
 
 
+วงจรไดอะแกรมการต่อสาย
+
+![clean_Smart_Soil_Monitoring_Systems_Page_11](https://github.com/user-attachments/assets/40447c74-d559-4f05-aebb-8902f0673ac9)
+
+
+![Screenshot 2026-02-03 200823](https://github.com/user-attachments/assets/8e7bc19f-c8e9-45d2-84e3-5685c9b638df)
+
+
+
 ระบบนี้ช่วยดูแลการปลูกพริกขี้หนูให้เติบโตได้ดีขึ้นอย่างไร
 
 ![clean_Smart_Soil_Monitoring_and_Precision_Agriculture_Page_02](https://github.com/user-attachments/assets/fdfa15b6-83ba-43e7-b8cc-1d34c2cba5dd)

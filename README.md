@@ -32,8 +32,8 @@ Soil Monitoring and Analysis System Chilli plant
 1. อุปกรณ์ฮาร์ดแวร์ (Hardware Components)
 อุปกรณ์อิเล็กทรอนิกส์หลักที่ใช้ในการประกอบวงจร ได้แก่:
 บอร์ดควบคุมและการสื่อสาร:
-• Maker UNO X: จำนวน 1 ชิ้น (บอร์ดไมโครคอนโทรลเลอร์หลัก)
-• WiFi UNO Based ESP32 (Wemos D1 R32): จำนวน 1 ชิ้น (สำหรับเชื่อมต่อ WiFi และส่งข้อมูลขึ้นแอปพลิเคชัน)
+• arduino UNO R4 หรือ arduino UNO R4 wifi หรือ Maker UNO X: จำนวน 1 ชิ้น (บอร์ดไมโครคอนโทรลเลอร์หลัก)
+• WiFi UNO Based ESP32 (Wemos D1 R32): จำนวน 1 ชิ้น (สำหรับเชื่อมต่อ WiFi และส่งข้อมูลขึ้นแอปพลิเคชัน กรณีมี arduino UNO R4 wifi ไม่ต้องใช้บอร์ดESP32 )
 เซนเซอร์และโมดูลวัดค่า:
 • Moisture Sensor Module: จำนวน 1 ชิ้น (เซนเซอร์วัดความชื้นในดิน)
 • PH Electrode Probe (E-201-C / PHS-25 / PHS-3C): จำนวน 1 ชิ้น (หัววัดค่า pH แบบ Analog สำหรับ Arduino)
